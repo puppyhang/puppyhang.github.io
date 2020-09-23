@@ -1,0 +1,24 @@
+{
+  "name": "puppyhang.github.io",
+  "version": "1.0.0",
+  "description": "个人主页",
+  "main": "index.js",
+  "dependencies": {
+    "element-ui": "^2.13.2",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puppyhang/puppyhang.github.io.git"
+  },
+  "author": "puppy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puppyhang/puppyhang.github.io/issues"
+  },
+  "homepage": "https://github.com/puppyhang/puppyhang.github.io#readme"
+}
